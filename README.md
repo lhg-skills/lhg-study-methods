@@ -1,4 +1,4 @@
-# dbskill 全体系学习课程
+# lhg-study-methods · dbskill 全体系学习课程
 
 > 边学边录视频讲解的学习项目。学习对象：[dontbesilent/dbskill](https://github.com/dontbesilent2025/dbskill)（CC BY-NC 4.0），本仓库为个人学习笔记与讲解，非官方文档，仅作学习交流。
 
@@ -40,3 +40,11 @@ dbskill 是一套 **34 个技能 + 4200+ 知识原子** 的商业 AI 工具箱�
 
 - 官方仓库：https://github.com/dontbesilent2025/dbskill
 - 协议说明：原项目 CC BY-NC 4.0（非商用）；本仓库为学习笔记，引用注明出处
+
+## 出品：刘洪光
+
+本课程由真人出镜 IP「刘洪光」（安徽合肥）出品，归属 [lhg-skills](https://github.com/lhg-skills)。
+
+- GitHub 主页：https://github.com/lhg-skills —— 全部 skill 开源在此，欢迎 star
+- 视频号：搜「刘洪光实名上网」
+- 微信：lhgsmsw
