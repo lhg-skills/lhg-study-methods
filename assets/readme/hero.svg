@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="360" viewBox="0 0 1200 360"
+     role="img" aria-labelledby="title desc">
+  <title id="title">lhg-study-methods — dbskill 全体系学习课程</title>
+  <desc id="desc">用费曼学习法把 dbskill 的 34 个技能 + 4200+ 知识原子拆成 8 讲讲透，每讲附录制脚本。</desc>
+
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="14" fill="#FAF7F0"/>
+  <rect x="1" y="1" width="1198" height="358" rx="14" fill="none" stroke="#E7E5E4" stroke-width="1.5"/>
+
+  <g id="title-block">
+    <rect x="64" y="62" width="12" height="12" fill="#B45309"/>
+    <text class="mono" x="86" y="74" font-size="17" letter-spacing="2" fill="#78716C">学习课程 · 费曼交付</text>
+    <text class="sans" x="64" y="152" font-size="72" font-weight="700" fill="#292524">学习方法</text>
+    <text class="sans" x="64" y="196" font-size="26" font-weight="700" fill="#7C2D12">dbskill 全体系学习课程 · 8 讲</text>
+    <text class="sans" x="64" y="238" font-size="21" fill="#292524">费曼法讲透 34 个技能，边学边录视频讲解。</text>
+  </g>
+
+  <line x1="700" y1="56" x2="700" y2="256" stroke="#E7E5E4" stroke-width="1.5"/>
+
+  <g id="proof">
+    <text class="sans" x="740" y="74" font-size="17" fill="#78716C">这门课的三个数</text>
+    <text class="mono" x="740" y="118" font-size="20" font-weight="700" fill="#B45309">8 讲</text>
+    <text class="sans" x="791" y="118" font-size="22" font-weight="700" fill="#292524">34 技能全体系</text>
+    <text class="mono" x="740" y="164" font-size="20" font-weight="700" fill="#B45309">4200+</text>
+    <text class="sans" x="809" y="164" font-size="22" font-weight="700" fill="#292524">上游知识原子</text>
+    <text class="mono" x="740" y="210" font-size="20" font-weight="700" fill="#B45309">费曼法</text>
+    <text class="sans" x="814" y="210" font-size="22" font-weight="700" fill="#292524">讲给外行听懂</text>
+  </g>
+
+  <line x1="64" y1="288" x2="1136" y2="288" stroke="#E7E5E4" stroke-width="1.5"/>
+  <g id="install">
+    <text class="mono" x="64" y="327" font-size="16" fill="#78716C">从这里开始</text>
+    <text class="mono" x="160" y="327" font-size="20" font-weight="700" fill="#7C2D12">第 0 讲 · 全貌地图 — 00-全貌地图/第0讲-全貌地图.md</text>
+  </g>
+</svg>
